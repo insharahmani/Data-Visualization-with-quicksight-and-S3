@@ -28,6 +28,5 @@ Let's embark on the journey of unlocking data insights with AWS QuickSight and A
 
 AWS QuickSight seamlessly integrates with Amazon S3, streamlining data analysis and visualization in the cloud. As you explore more AWS tools and services, you'll discover endless possibilities to enhance your data-related projects. This collaborative journey exemplifies the innovative and learning spirit of the AWS community. Together, we can achieve remarkable feats in the realm of cloud computing.
 
-For a comprehensive walkthrough, please visit the full blog post: [Unleash the Power of Data: Visualizing Insights with AWS QuickSight](https://medium.com/@kevinkiruri/unleash-the-power-of-data-visualizing-insights-with-aws-quicksight-757e7c96b4ca).
 
 ---
